@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello World! My name is Abin vs. I am a Computing Student | Software Developer | Community Volunteer | Cyber Security Enthusiast. This is my personal GitHub profile. Thank you for coming to meet me. It's nice to meet you too.
+
+One day I would get time to create this page.
+Thank You.
+<!-- Hello World! My name is Abin vs. I am a Computing Student | Software Developer | Community Volunteer | Cyber Security Enthusiast. This is my personal GitHub profile. Thank you for coming to meet me. It's nice to meet you too.
 
  GitHub Profile
 GitHub Badge GitHub Followers GitHub User's Stars Years Badge
@@ -54,4 +57,4 @@ GitHub LinkedIn Twitter Facebook Instagram YouTube Telegram StackOverflow Medium
 
 thanks.gif
  Thanks
-Thanks to everyone who sup
+Thanks to everyone who sup -->
